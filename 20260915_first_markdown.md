@@ -1,6 +1,6 @@
-A really not so simple document
+A simple document
 ================
-Jeff Goldsmith
+Anny Rui
 2026-09-17
 
 I’m an R Markdown document!
@@ -26,7 +26,7 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is 0.1118795.
+I can take the mean of the sample, too! The mean is 0.0451406.
 
 # Section 3
 

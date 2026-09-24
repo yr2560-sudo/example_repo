@@ -1,6 +1,6 @@
 ---
-title: "A really not so simple document"
-author: "Jeff Goldsmith"
+title: "A simple document"
+author: "Anny Rui"
 date: 2026-09-17
 output: github_document
 ---
